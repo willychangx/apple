@@ -1,5 +1,9 @@
 .ui.borderless.ten.item.menu {
   background-color: black;
+  position: fixed;
+  top: 0px;
+  z-index: 100;
+  opacity: 0.8;
 }
 .topicons {
   color: white;
@@ -16,6 +20,7 @@
 }
 #second-section {
   background-color: black;
+  margin-top: 100px;
 }
 p {
   color: gray;
