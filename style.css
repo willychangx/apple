@@ -1,0 +1,56 @@
+.ui.borderless.ten.item.menu {
+  background-color: black;
+}
+.topicons {
+  color: white;
+}
+#flag {
+  text-align: right;
+}
+.menu {
+  background-color: black;
+  color: white;
+}
+.ui.row {
+  padding-bottom: 30px;
+}
+#second-section {
+  background-color: black;
+}
+p {
+  color: gray;
+}
+#first {
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  font-family: sans-serif;
+  margin-top: 50px;
+  margin-bottom: 0px;
+}
+#second {
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  font-family: sans-serif;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+#third {
+  text-align: center;
+  color: gray;
+  font-size: 20px;
+  font-family: sans-serif;
+  margin-top: 0px;
+}
+#fourth {
+  text-align: center;
+  color: blue;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+#footer {
+  background-color: white;
+  font-size: small;
+  padding: 50px 300px 50px 300px;
+}
